@@ -73,18 +73,19 @@
 ├── spider_datas/
 │   └── all_recipes.csv
 ├── spider/
-│   └── 爬取.py
-├── data_an_cl/
+│   └── spider.py
+├── data_analysis_clean/
+│   ├── analysis.py
 │   ├── clean_data.py
 │   └── all_recipes_cleaned.csv
 ├── to_mysql/
 │   ├── diet_system.sql
-│   └── MySQL 入库模块.py
-├── 图表/
+│   └── to_mysql_mod.py
+├── chart/
 │   ├── disease_recipe_count_mysql.png
 │   ├── dish_count_mysql.png
-│   ├── 菜品名称出现次数.py
-│   └── 每个疾病的菜品数量.py
+│   ├── disease_recipe_count.py
+│   └── dish_count.py
 ├── AI_adviser.py
 ├── README.md
 └── requirements.txt
