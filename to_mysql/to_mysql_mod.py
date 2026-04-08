@@ -1,10 +1,11 @@
+# 作者 马明洋 时间 2026-04-02
 import pandas as pd
 import pymysql
 
 # =========================
 # 1. 读取清洗后的 CSV
 # =========================
-df = pd.read_csv("../data_an_cl/all_recipes_cleaned.csv", encoding="utf-8-sig")
+df = pd.read_csv("../data_analysis_clean/all_recipes_cleaned.csv", encoding="utf-8-sig")
 
 # =========================
 # 2. 连接 MySQL 数据库

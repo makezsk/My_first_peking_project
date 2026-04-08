@@ -1,3 +1,4 @@
+# 作者 宗圣凯 时间 2026-04-02
 import time
 import tkinter as tk
 from tkinter import scrolledtext, messagebox
@@ -9,14 +10,14 @@ from cozepy import COZE_CN_BASE_URL, Coze, TokenAuth, Message, ChatStatus
 # =========================
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "admin"   # 改成你的 MySQL 密码
+DB_PASSWORD = "admin"
 DB_NAME = "diet_system"
 
 # =========================
 # 2. Coze 配置
 # =========================
-COZE_API_TOKEN = "cztei_luGAf7HOgmvQyvNtSnzrQXEqE4QfRPq3b1uq4SXLvuNTsXrQDTJeY44WwH4hZQDNr"   # 改成你的 token
-BOT_ID = "7624056708306370560"  # 改成你的 bot_id
+COZE_API_TOKEN = "cztei_qFuZxCowRgSZMSFiWQmXWNKofTSADqEiwt5eycRwnwSJoAZvnzhhVBch17S3Pgsyu"   # token
+BOT_ID = "7624056708306370560"  # bot_id
 USER_ID = "user_001"
 
 # 初始化 Coze 客户端

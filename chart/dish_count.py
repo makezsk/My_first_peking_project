@@ -1,3 +1,4 @@
+# 作者 王岩茹 时间 2026-04-02
 import pymysql
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -8,7 +9,7 @@ import matplotlib.pyplot as plt
 conn = pymysql.connect(
     host="localhost",
     user="root",
-    password="admin",   # 改成你的 MySQL 密码
+    password="admin",
     database="diet_system",
     charset="utf8mb4"
 )

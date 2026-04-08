@@ -76,8 +76,9 @@
 │   └── 爬取.py
 ├── data_an_cl/
 │   ├── clean_data.py
- |    └── all_recipes_cleaned.csv
+│   └── all_recipes_cleaned.csv
 ├── to_mysql/
+│   ├── diet_system.sql
 │   └── MySQL 入库模块.py
 ├── 图表/
 │   ├── disease_recipe_count_mysql.png
