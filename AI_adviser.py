@@ -16,7 +16,7 @@ DB_NAME = "diet_system"
 # =========================
 # 2. Coze 配置
 # =========================
-COZE_API_TOKEN = "cztei_qFuZxCowRgSZMSFiWQmXWNKofTSADqEiwt5eycRwnwSJoAZvnzhhVBch17S3Pgsyu"   # token
+COZE_API_TOKEN = "cztei_hw7rfJru7oN6O3quleSZoJRV64qZEctZJ3sgAKG4TzuvOgenUUDTCyYlhetG6Ec1U"   # token
 BOT_ID = "7624056708306370560"  # bot_id
 USER_ID = "user_001"
 
